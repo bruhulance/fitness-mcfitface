@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with deez nuts lmfao.
+This project was bootstrapped with react.
 
 ## Available Scripts
 
